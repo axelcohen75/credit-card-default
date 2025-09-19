@@ -1,0 +1,1 @@
+Credit card fraud represents a significant challenge for financial institutions worldwide, making the detection of fraudulent transactions crucial to protect both companies and customers. The purpose of this project is to build and evaluate several machine learning models capable of accurately classifying transactions as either normal or fraudulent.
